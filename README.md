@@ -57,6 +57,7 @@ D2-SIM-SDRN/
 └── Run.py                      # Script for one-click experimental data inference
 🚀 Quick Start: Inference on Toy Dataset
 We provide a minimal toy dataset and pre-trained weights for immediate validation.
+Pre-trained Weights: Due to file size limits, please download the optimal model weights from [https://cloud.tsinghua.edu.cn/d/f3a7a0ba9b1045d69368/] and place the .pth file into the pre_trained_weights/ directory.
 
 1. Validate on synthetic testing data:
 
